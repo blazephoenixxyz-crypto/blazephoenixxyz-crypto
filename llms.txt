@@ -5,7 +5,8 @@
 > output rather than its self-reported state, so the quote and the enforced floor come from the
 > same evaluator and every swap fails closed. Around it: single-asset staking with no price
 > oracle, a TypeScript SDK, an MCP server for AI agents, and the source of the HTTP API.
-> Chains: Base, Ethereum, Optimism, Arbitrum, Robinhood Chain. Built by Fable & Mitra.
+> Chains: V2 targets Base, Optimism, Arbitrum, Robinhood Chain and further L2s (not Ethereum L1);
+> the V1 generation deployed today runs on those four and on Ethereum. Built by Fable & Mitra.
 
 This file indexes the whole project for agents, crawlers and language models (format:
 llmstxt.org). Each repository below keeps its own `llms.txt`; read the one for the component you
