@@ -20,7 +20,7 @@ and quoting are free; see its licence for production use). Contact: contact@blaz
 
 ## Protocol
 
-- [Blaze-Phoenix-Dex llms.txt](https://raw.githubusercontent.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/main/llms.txt): the router and aggregator, V2 — architecture, guarantees with the command that checks each one, engineering practice as falsifiable claims
+- [Blaze-Phoenix-Dex llms.txt](https://raw.githubusercontent.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/main/llms.txt): the router and aggregator, V2 (deployment pending; V1 is live) — architecture, guarantees with the command that checks each one, engineering practice as falsifiable claims
 - [Blaze-Phoenix-Dex llms-full.txt](https://raw.githubusercontent.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/main/llms-full.txt): the Dex documentation corpus in one file, generated and checked in CI
 - [Blaze-Phoenix-Staking llms.txt](https://raw.githubusercontent.com/blazephoenixxyz-crypto/Blaze-Phoenix-Staking/main/llms.txt): single-asset staking and lending with no price oracle and an on-chain solvency identity
 - [Blaze-Phoenix-Dex-v1](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex-v1): the archived V1 codebase, the generation deployed on chain today
