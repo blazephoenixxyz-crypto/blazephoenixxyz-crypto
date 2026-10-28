@@ -60,7 +60,7 @@ V2 targets Base · Optimism · Arbitrum · Robinhood Chain and further L2s · V1
 | Swap from TypeScript | `npm i @blazephoenix/sdk viem` · [SDK quick start](https://github.com/blazephoenixxyz-crypto/SDK#readme) |
 | Give an AI agent DEX tools | `claude mcp add --transport http blazephoenix https://blazephoenix.xyz/mcp` · [MCP docs](https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp#readme) |
 | Read how the router works | [Dex README](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex#readme) · [swap flow](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/docs/SWAP_TRANSACTION_FLOW.md) · [contract reference](https://blazephoenixxyz-crypto.github.io/Blaze-Phoenix-Dex/) |
-| Read the design and its mathematics | [Whitepaper](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/docs/papers/whitepaper-v2.2.md) · [DOI 10.5281/zenodo.23084091](https://doi.org/10.5281/zenodo.23084091) |
+| Read the design and its mathematics | [Whitepaper v2.3](https://blazephoenix.xyz/whitepaper.md) · [DOI 10.5281/zenodo.23084091](https://doi.org/10.5281/zenodo.23084091) |
 | Check a claim yourself | [Guarantees and the command for each](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex#guarantees-and-how-to-check-each-one) · [live re-verification](https://blazephoenix.xyz/verified/) · [facts.json](https://blazephoenix.xyz/facts.json) |
 | Break it | [Security policy and bounty terms](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/SECURITY.md) · [how a report is handled](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/docs/BOUNTY_METHOD.md) · [Hall of Fame](https://github.com/blazephoenixxyz-crypto/Blaze-Phoenix-Dex/blob/main/SECURITY_HALL_OF_FAME.md) |
 
