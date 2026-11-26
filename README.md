@@ -10,7 +10,7 @@
 and publishes the command that checks every claim it makes.**
 
 DEX aggregator · single-asset staking · SDK · MCP server for AI agents ·
-V2 targets Base · Optimism · Arbitrum · Robinhood Chain and further L2s · V1 is live on those and on Ethereum
+V2 targets Ethereum · Base · Optimism · Arbitrum · Robinhood Chain · Avalanche C-Chain · V1 is live on Base, Ethereum, Optimism, Arbitrum and Robinhood Chain
 
 [![Website](https://img.shields.io/badge/site-blazephoenix.xyz-000000?style=for-the-badge)](https://blazephoenix.xyz)
 [![SDK](https://img.shields.io/npm/v/@blazephoenix/sdk?style=for-the-badge&label=%40blazephoenix%2Fsdk&color=C2521B)](https://www.npmjs.com/package/@blazephoenix/sdk)
